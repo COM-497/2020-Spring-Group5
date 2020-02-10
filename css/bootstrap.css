@@ -6221,8 +6221,12 @@ a.close.disabled {
   -ms-touch-action: pan-y;
   touch-action: pan-y;
 }
+.carousel-item{
+  height: 200px;
+}
 
 .carousel-inner {
+  
   position: relative;
   width: 100%;
   overflow: hidden;
